@@ -11,7 +11,7 @@ int main() {
         int j =1;
         while (j<=n)
         {
-            cout<<n-j+15;
+            cout<<n-j+1;
             j = j + 1; 
         }
       cout<<endl;
