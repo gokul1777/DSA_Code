@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/ADMIN/OneDrive/Desktop/dsa code",
-      "program": "c:/Users/ADMIN/OneDrive/Desktop/dsa code/build/Debug/outDebug",
+      "cwd": "c:/Users/ADMIN/OneDrive/Desktop/DSA code",
+      "program": "c:/Users/ADMIN/OneDrive/Desktop/DSA code/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
